@@ -1,7 +1,7 @@
 @if(count($slides) > 0)
 
 @if(count($slides) == 1)
-<section class='repairs_slider home_page_repairs_slider {{($region->is_default)?'toppadding':''}}' style="margin-bottom: -100px;">
+<section class='repairs_slider_alone repairs_slider home_page_repairs_slider {{($region->is_default)?'toppadding':''}}'>
 @else
 <section class='repairs_slider home_page_repairs_slider {{($region->is_default)?'toppadding':''}}'>
 @endif

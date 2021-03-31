@@ -2091,6 +2091,7 @@ section.reviews_new{
 	}
 }
 
+
 /*      price list new page  */
 section.price_list_new_page{
 	padding: 69px 0 158px;
@@ -2102,7 +2103,7 @@ section.price_list_new_page{
 		margin: 47px auto;
 		ul{
 			@include flex;
-			flex-wrap: wrap;
+			flex-wrap: inherit;
 			justify-content: space-between;
 			margin: 0 -10px;
 			li{

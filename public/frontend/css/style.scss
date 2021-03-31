@@ -113,6 +113,11 @@ label{
 	}
 }
 
+
+section.repairs_slider_alone{
+	margin-bottom: -100px;
+}
+
 section.repairs_slider {
 	position: relative;
 	.slider {
@@ -2589,6 +2594,11 @@ section.blog_pages{
 }
 
 @media only screen and (max-width: 820px) {
+
+	section.repairs_slider_alone{
+		margin-bottom: 0px !important;
+	}
+
 	section.our_team .team{
 		justify-content: space-between;
 	}
