@@ -2102,8 +2102,8 @@ section.price_list_new_page{
 		margin: 47px auto;
 		ul{
 			@include flex;
-			flex-wrap: inherit;
-			justify-content: space-between;
+			flex-wrap: wrap;
+			justify-content: left;
 			margin: 0 -10px;
 			li{
 				margin: 21px 10px 8px;
