@@ -1,0 +1,74 @@
+textarea.richTextBoxCustom {
+    display: block !important;
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+}
+
+.form-border {
+    /*border: 1px solid #ccc;*/
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, .4);
+    margin-bottom: 15px;
+    padding-top: 15px;
+}
+
+.remove-stat {
+    margin-top: 27px;
+    margin-bottom: 0;
+}
+
+.dataTable .readmore {
+    overflow: hidden;
+}
+
+.cloneya-buttons {
+    display: flex;
+}
+
+.cloneya-buttons a {
+    margin: 0 0 10px;
+}
+
+.content-label-for-items {
+    margin-left: 15px;
+}
+
+.box-content-for-items {
+    border: 1px solid #e4eaec;
+    padding-top: 25px;
+    margin-bottom: 10px;
+}
+
+.clone-wrapper textarea {
+    margin-bottom: 10px;
+}
+
+.clone-wrapper .clone .btn, .clone-wrapper .delete .btn {
+    padding: 5px 12px 2px;
+}
+
+.clone-wrapper .clone .btn i, .clone-wrapper .delete .btn i {
+    font-size: 17px;
+}
+
+.delete-item-content {
+    position: absolute;
+    right: 4px;
+    top: 0;
+}
+
+.up-item-content {
+    position: absolute;
+    right: 110px;
+    top: 0;
+}
+
+.down-item-content {
+    position: absolute;
+    right: 55px;
+    top: 0;
+}
+
+.img_settings_container.class_image2 {
+    height: 180px;
+}

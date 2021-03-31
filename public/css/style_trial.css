@@ -1,0 +1,9 @@
+section.trial .list-info .wh{
+	display: none;
+}
+
+@media only screen and (max-width: 550px) {
+	section.trial .list-info .wh{
+		display: block;
+	}
+}
