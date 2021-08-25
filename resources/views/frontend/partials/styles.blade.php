@@ -9,7 +9,7 @@
 <link href="{{ asset('frontend/css/style_4.css') }}" rel='stylesheet'>
 <link href="{{ asset('frontend/css/style_3.css') }}" rel='stylesheet'>
 <link href="{{ asset('frontend/css/style_2.css') }}" rel='stylesheet'>
-<link href="{{ asset('frontend/css/style__5.css') }}" rel='stylesheet'>
+<link href="{{ asset('frontend/css/style_5.css') }}" rel='stylesheet'>
 <link href="{{ asset('frontend/css/ion.rangeSlider.css') }}" rel='stylesheet'>
 <link href="{{ asset('frontend/css/ion.rangeSlider.skinHTML5.css') }}" rel='stylesheet'>
 <link href="{{ asset('css/main.css') }}" rel='stylesheet'>
