@@ -121,6 +121,89 @@
                 смотрите примеры наших проектов
             </div>
             <div class='interior_design__slider'>
+
+                <div class='interior_design__slider-item'>
+                    <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Лофт в старом фонде'
+                       href='/frontend/images_4/imgLightbox/7/1_livingroom1_2-min.jpg'>
+                        <div class='interior_design__slider-item--img'>
+                            <div class='hover_img'></div>
+                            <img src='/frontend/images_4/imgLightbox/7/1_livingroom1_2-min.jpg'>
+                        </div>
+                        <div class='interior_design__slider-item--title'>Лофт в старом фонде</div>
+                    </a>
+                    <div class='hide_block'>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Лофт в старом фонде'
+                           href='/frontend/images_4/imgLightbox/7/2_livingroom_2-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Лофт в старом фонде'
+                           href='/frontend/images_4/imgLightbox/7/3_bedroom_1-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Лофт в старом фонде'
+                           href='/frontend/images_4/imgLightbox/7/4_lampa-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Лофт в старом фонде'
+                           href='/frontend/images_4/imgLightbox/7/5_bedroom_2-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Лофт в старом фонде'
+                           href='/frontend/images_4/imgLightbox/7/6_detskaya_2-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Лофт в старом фонде'
+                           href='/frontend/images_4/imgLightbox/7/7_detskaya_1-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Лофт в старом фонде'
+                           href='/frontend/images_4/imgLightbox/7/8_kuhnya_2-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Лофт в старом фонде'
+                           href='/frontend/images_4/imgLightbox/7/9_prihogaya_1-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Лофт в старом фонде'
+                           href='/frontend/images_4/imgLightbox/7/10_prihogaya_2-min.jpg'></a>
+
+                    </div>
+                </div>
+
+                <div class='interior_design__slider-item'>
+                    <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                       href='/frontend/images_4/imgLightbox/8/1_g 3-min.jpg'>
+                        <div class='interior_design__slider-item--img'>
+                            <div class='hover_img'></div>
+                            <img src='/frontend/images_4/imgLightbox/8/1_g 3-min.jpg'>
+                        </div>
+                        <div class='interior_design__slider-item--title'>Современный дизайн в ЖК Европа Сити</div>
+                    </a>
+                    <div class='hide_block'>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/2_g 7-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/3_g 6 (2)-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/4_g 2-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/5_k 1 (3)-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/6_k 5 (2)-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/7_k 4 (2)-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/8_k 6 (3)-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/9_kor 9-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/10_kor 8-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/11_kor 10-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/12_v 1-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/13_v 6-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/14_san 10 (2)-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/15_san 12-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/16_s 4 (3)-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/17_s 1 (4)-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн в ЖК Европа Сити'
+                           href='/frontend/images_4/imgLightbox/8/18_s 3 (3)-min.jpg'></a>
+
+                    </div>
+                </div>
+
+
+
                 <div class='interior_design__slider-item'>
                     <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Кухня-гостиная'
                        href='/frontend/images_4/imgLightbox/1/1 Кухня-гостиная 1-4-min.jpg'>
@@ -219,6 +302,30 @@
                         <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_4' title='' href='/frontend/images_4/imgLightbox/4/10-min.png'></a>
                     </div>
                 </div>
+
+                <div class='interior_design__slider-item'>
+                    <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Кухня-гостиная'
+                       href='/frontend/images_4/imgLightbox/9/1_cam_1-min.jpg'>
+                        <div class='interior_design__slider-item--img'>
+                            <div class='hover_img'></div>
+                            <img src='/frontend/images_4/imgLightbox/9/1_cam_1-min.jpg'>
+                        </div>
+                        <div class='interior_design__slider-item--title'>Современный дизайн гостиной</div>
+                    </a>
+                    <div class='hide_block'>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн гостиной'
+                           href='/frontend/images_4/imgLightbox/9/2_cam_3_2-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн гостиной'
+                           href='/frontend/images_4/imgLightbox/9/3_cam_8_2-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн гостиной'
+                           href='/frontend/images_4/imgLightbox/9/4_cam_4-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн гостиной'
+                           href='/frontend/images_4/imgLightbox/9/5_cam_5-min.jpg'></a>
+                        <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_1' title='Современный дизайн гостиной'
+                           href='/frontend/images_4/imgLightbox/9/6_cam_6-min.jpg'></a>
+                    </div>
+                </div>
+
                 <div class='interior_design__slider-item'>
                     <a class="lightbox" aria-haspopup="dialog" data-lightbox-gallery='img_design_5' title='' href='/frontend/images_4/imgLightbox/5/1.jpg'>
                         <div class='interior_design__slider-item--img'>
