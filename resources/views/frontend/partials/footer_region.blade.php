@@ -315,6 +315,8 @@
       </div>
     </div>
   </div>
+  @if(!empty($cookieConsentGiven))
+  {{-- VK Retargeting — только после согласия с cookie --}}
   <script type="text/javascript">!function () {
       var t = document.createElement("script");
       t.type = "text/javascript", t.async = !0, t.src = "https://vk.com/js/api/openapi.js?162", t.onload = function () {
@@ -323,5 +325,6 @@
     }();</script>
   <noscript><img src="https://vk.com/rtrg?p=VK-RTRG-407921-8zoI5" style="position:fixed; left:-999px;" alt=""/>
   </noscript>
+  @endif
 </footer>
 <!-- Vk10441 -->

@@ -21,6 +21,19 @@ class CopyAction extends AbstractAction
         return 'read';
     }
 
+    /**
+     * Показывать ли кнопку «Копировать» на текущем разделе админки.
+     *
+     * Журнал согласий с cookie — «только чтение», копирование не нужно.
+     * Точечно скрываем по slug — нулевой риск для остальных BREAD.
+     *
+     * @return bool
+     */
+    public function shouldActionDisplayOnDataType(): bool
+    {
+        return $this->dataType->slug !== 'cookie-consents';
+    }
+
     public function getAttributes()
     {
         return [

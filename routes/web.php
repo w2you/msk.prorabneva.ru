@@ -98,6 +98,10 @@ Route::group(['prefix' => 'admin'], function () {
 });
 
 Route::get('dizajn-proekt-v-podarok', 'Frontend\SalePromotionController@saleShow')->name('saleShow');
+
+Route::post('/cookie-consent/accept', ['uses' => 'CookieConsentController@accept', 'as' => 'cookie.consent.accept'])
+    ->middleware('throttle:10,1');
+
 /*--- Important!!! This route always should be at the end of list ---*/
 Route::get('/{slug}', function ($router) {
     if (App\Helpers\CategoryMainRepairHelper::filter_services($router)) {

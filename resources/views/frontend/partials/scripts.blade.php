@@ -1,3 +1,5 @@
+@if(!empty($cookieConsentGiven))
+{{-- Счётчики и пиксели (Facebook, Google Analytics, Яндекс.Метрика) грузятся только после согласия с cookie (152-ФЗ) --}}
 <!-- Facebook Pixel Code -->
 <script>
     !function(f,b,e,v,n,t,s)
@@ -53,6 +55,7 @@
     })(document, window, "yandex_metrika_callbacks2");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/73763698" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+@endif
 
 <script src="{{ asset('frontend/js/jquery-2.1.4.min.js') }}"></script>
 <script src="{{ asset('frontend/js/owl.carousel.min.js') }}"></script>
@@ -68,7 +71,8 @@
 <script src="{{ asset('frontend/js/jquery.mCustomScrollbar.concat.min.js') }}"></script>
 <script src="{{ asset('frontend/js/main.js') }}"></script>
 <script src="{{ asset('frontend/js/scripts.js') }}"></script>
-@if(isset($selectRegion))
+@if(isset($selectRegion) && !empty($cookieConsentGiven))
+{{-- Скрипты счётчиков из БД региона — только после согласия с cookie --}}
 {!! $selectRegion->foter_script  !!}
 @endif
 <script>
@@ -133,4 +137,6 @@
     };
 </script>
 <!-- ROISTAT END -->
+@if(!empty($cookieConsentGiven))
 <script src="//api.venyoo.ru/wnew.js?wc=venyoo/default/science&widget_id=5995765787525120"></script>
+@endif
