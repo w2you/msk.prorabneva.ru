@@ -1,7 +1,7 @@
 @extends('frontend.layouts.master')
 
 @section('content')
-    <section class='top_banner top_banner_home'>
+    <section class='top_banner top_banner_home newClass'>
         <div class='wrapper_new-n'>
             <div class='flex_block_n'>
                 <div class='banner_left'>
@@ -894,7 +894,7 @@
                             <img src='/frontend/images_4/Rectangle 76.png'>
                         </div>
                         <p><b>Проект включает в себя:</b>					</p>
-						
+
                         <ul>
                             <li>- план квартиры;</li>
                             <li>- схему расположения мебели, основных функциональных зон;</li>

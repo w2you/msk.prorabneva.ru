@@ -22,6 +22,9 @@
     @if(isset($meta_image))
         <meta property="og:image" content="{{$meta_image}}"/>
     @endif
+    
+    <meta name="google-site-verification" content="OLz9QB_iALSJQzeJqnl6BNkqT64yxQu3735Vent7nO0" />
+    <meta name="yandex-verification" content="46b1e27df7a8f110" />
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="yandex-verification" content="4fcb9b76c2151fe8" />
